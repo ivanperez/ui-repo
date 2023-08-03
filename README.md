@@ -1,3 +1,4 @@
 # ui-repo
 
-hello fom gh
+hello from gh
+hello from vsc
